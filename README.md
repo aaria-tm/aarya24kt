@@ -3,9 +3,7 @@
 
 A modern e-commerce frontend website where users can browse products and manage a shopping cart with real-time updates.
 
----
-
-## 🛍️ Features
+##  Features
 
 - Browse products across categories:
   - Men
@@ -19,7 +17,7 @@ A modern e-commerce frontend website where users can browse products and manage 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML  
 - CSS  
@@ -27,7 +25,7 @@ A modern e-commerce frontend website where users can browse products and manage 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 - Users can select products from different sections  
 - Clicking "Add to Cart" adds items instantly  
@@ -36,14 +34,14 @@ A modern e-commerce frontend website where users can browse products and manage 
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. Download or clone the repository  
 2. Open `index.html` in your browser  
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - User login & authentication  
 - Payment gateway integration  
@@ -51,7 +49,3 @@ A modern e-commerce frontend website where users can browse products and manage 
 - Backend integration for real data  
 
 
-
-## 👩‍💻 Author
-
-Made by Aarya
